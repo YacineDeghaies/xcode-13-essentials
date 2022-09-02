@@ -11,7 +11,6 @@ struct ContentView: View {
     var body: some View {
         Text("Fixing current Bug b and a")
             .padding()
-
     }
 }
 
